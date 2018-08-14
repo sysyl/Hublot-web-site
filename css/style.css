@@ -214,7 +214,7 @@ p {
 }
 
 #home .btn {
-  background: #f9f9f9;
+  background: #f4f4f4;
   border-radius: 0;
   border: 3px solid #376374;
   color: #376374;
@@ -233,7 +233,7 @@ p {
 /* about section */
 
 #about {
-  background: #ffffff;
+  background: #f4f4f4;
 }
 
 #about .col-md-4 .fa {
@@ -245,7 +245,6 @@ p {
   height: 80px;
   line-height: 80px;
   text-align: center;
-  margin-top: 100px;
   position: center;
 }
 
@@ -383,7 +382,7 @@ p {
 /* contact section */
 
 #contact {
-  background: #f9f9f9;
+  background: #f4f4f4;
   text-align: center;
 }
 
